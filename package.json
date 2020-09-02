@@ -1,0 +1,13 @@
+{
+  "name": "eslint-rn-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^7.8.1",
+    "eslint-plugin-react-native": "^3.9.1"
+  },
+  "scripts": {
+    "lint": "eslint crash.jsx"
+  }
+}
